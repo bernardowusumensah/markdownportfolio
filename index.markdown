@@ -5,6 +5,6 @@ Hi there! Welcome to my little corner of the internet. My name is **Bernad Owusu
 
 
 [About Me](about.markdown)
-[Employment](employment)
+[Employment](employment.markdown)
 [Education](education)
 [Contact](contact)
