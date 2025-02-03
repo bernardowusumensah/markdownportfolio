@@ -21,8 +21,8 @@ A brief intro to this post, highlighting what you’ve shared or discussed. Mayb
 
 I’d love to hear from you! If you have any questions, comments, or just want to chat about the things I write, feel free to reach out. You can find me on:
 
-- **Twitter**: [Your Twitter Handle]
+- **Github**: [https://github.com/bernardowusumensah]
 - **LinkedIn**: [https://www.linkedin.com/in/owusu-mensah-bernard-77a62aaa/]
-- **Email**: [Your Email Address]
+- **Email**: [tgatelbernard@gmail.com]
 
 Thanks for visiting, and I hope you enjoy the content here!
