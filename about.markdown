@@ -1,8 +1,10 @@
 ## About Me
 
-I'm a Software Engineer, and I have a passion for coding. Over the years, I've developed a deep interest in Full Stack Development, and I love learning more every day. When I'm not working, you can find me reading novels, or simply enjoying life.
+I'm a Software Engineer, and I have a passion for coding. Over the years, I've developed a deep interest in Full Stack Development, and I love learning more every day. When I'm not working, you can find me reading novels, or simply enjoying
+life.
+
 ![Logo](photo.jpg)
-<img src="markdownportfolio/photo.jpg" width="5"; height="5">
+<img src="markdownportfolio/photo.jpg">
 
 ## What I Write About
 
