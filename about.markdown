@@ -4,7 +4,7 @@ I'm a Software Engineer, and I have a passion for coding. Over the years, I've d
 life.
 
 ![Logo](photo.jpg)
-<img src="markdownportfolio/photo.jpg" height="10px">
+<img src="markdownportfolio/photo.jpg" height="1px">
 
 ## What I Write About
 
